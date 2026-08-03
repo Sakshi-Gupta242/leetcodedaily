@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0015-3sum) |
+| [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -28,12 +29,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0070-climbing-stairs) |
+| [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0070-climbing-stairs) |
+| [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0070-climbing-stairs) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
