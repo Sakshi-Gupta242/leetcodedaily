@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0118-pascals-triangle) |
 | [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3731-find-missing-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0070-climbing-stairs) |
 | [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
