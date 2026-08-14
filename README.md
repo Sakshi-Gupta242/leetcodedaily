@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0031-next-permutation) |
 | [1768-merge-strings-alternately](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0118-pascals-triangle) |
 | [1140-stone-game-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1140-stone-game-ii) |
