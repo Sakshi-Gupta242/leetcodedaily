@@ -82,22 +82,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0133-clone-graph) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0133-clone-graph) |
 | [3310-remove-methods-from-project](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
