@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
