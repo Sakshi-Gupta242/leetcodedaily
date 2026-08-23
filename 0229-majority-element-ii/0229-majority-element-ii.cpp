@@ -1,8 +1,7 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int a=0,b=0;
-        int ca=0,cb =0;
+        int a=0,b=0,ca=0,cb =0;
         //find 2 possible candidates
         for(int x : nums){
             if(x==a) ca++;
