@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1140-stone-game-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
