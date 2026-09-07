@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1140-stone-game-ii) |
@@ -132,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1563-stone-game-v) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
@@ -311,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
