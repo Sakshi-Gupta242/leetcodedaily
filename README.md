@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0509-fibonacci-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0509-fibonacci-number) |
 ## Pigeonhole Principle
 |  |
