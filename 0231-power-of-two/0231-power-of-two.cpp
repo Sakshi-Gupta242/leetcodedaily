@@ -8,7 +8,7 @@ public:
         {
             if(n%2==1)
             return 0;
-            n=n/2;
+            n/=2;
         }
         return 1;
     }
