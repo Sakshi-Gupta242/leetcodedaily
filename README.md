@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0344-reverse-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0229-majority-element-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0268-missing-number) |
