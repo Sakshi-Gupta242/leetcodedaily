@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0231-power-of-two) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0268-missing-number) |
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
