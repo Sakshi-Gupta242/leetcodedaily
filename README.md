@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3248-snake-in-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3248-snake-in-matrix) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2029-stone-game-ix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0994-rotting-oranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
