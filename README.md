@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0733-flood-fill](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
