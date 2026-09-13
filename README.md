@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3248-snake-in-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3248-snake-in-matrix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3248-snake-in-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3248-snake-in-matrix) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3248-snake-in-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3248-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
