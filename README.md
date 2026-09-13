@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1386-cinema-seat-allocation) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
