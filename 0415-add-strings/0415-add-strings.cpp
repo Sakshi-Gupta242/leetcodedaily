@@ -11,7 +11,7 @@ public:
         int digit1 = 0;
         int digit2 = 0;
         if(i>=0)
-        digit1= num1[i]-'0';
+        digit1= num1[i]-'0'; //change char into integer
 
         if(j>=0)
         digit2=num2[j]-'0';
