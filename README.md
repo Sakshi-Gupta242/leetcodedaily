@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1108-defanging-an-ip-address) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1137-n-th-tribonacci-number) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3248-snake-in-matrix) |
