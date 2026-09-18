@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0344-reverse-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0062-unique-paths) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0217-contains-duplicate) |
