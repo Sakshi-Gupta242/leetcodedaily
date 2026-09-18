@@ -19,7 +19,8 @@ public:
       }
     int romanToInt(string s) {
         int sum = 0,index = 0;
-        while(index<s.size()-1){
+        while(index<s.size()-1)
+        {
             if(num(s[index])<num(s[index+1]))
             sum -= num(s[index]);
             else
