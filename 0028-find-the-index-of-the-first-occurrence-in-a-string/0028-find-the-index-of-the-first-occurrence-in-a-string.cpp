@@ -1,53 +1,90 @@
 class Solution {
 public:
-void lpsfind(vector<int>&lps,string s){
-    int pre =0,suf = 1;
 
-    while(suf<s.size())
-    {
-        //Match
-        if(s[pre]==s[suf])
-        {
-            lps[suf]=pre+1;
-            suf++,pre++;
-        }
-        //not matched
-        else
-        {
-            if(pre == 0){
-                lps[suf]=0;
+    // LPS array banane ka function
+    void lpsfind(vector<int>& lps, string s) {
+
+        int pre = 0;
+        int suf = 1;
+
+        while(suf < s.size()) {
+
+            // Match
+            if(s[pre] == s[suf]) {
+
+                lps[suf] = pre + 1;
+
+                pre++;
                 suf++;
             }
-            else
-            {
-                pre = lps[pre-1];
+
+            // Not matched
+            else {
+
+                // Koi prefix match nahi hua
+                if(pre == 0) {
+
+                    lps[suf] = 0;
+                    suf++;
+                }
+
+                // Prefix ka kuch part already match hua tha
+                else {
+
+                    pre = lps[pre - 1];
+                }
             }
         }
-
     }
-}
+
+
     int strStr(string haystack, string needle) {
 
-        vector<int>lps(needle.size(),0);
-        lpsfind(lps,needle);
-        int first =0,second =0;
-        while(second<needle.size()&&first<haystack.size()){
-            //match
-            if(needle[second]==haystack[first]){
-                second++,first++;
-            }
-            //not matched
-            else{
-                if(second==0)
+        // Step 1: LPS array
+        vector<int> lps(needle.size(), 0);
+
+        lpsfind(lps, needle);
+
+
+        // Step 2: Search
+        int first = 0;   // haystack pointer
+        int second = 0;  // needle pointer
+
+        while(first < haystack.size() &&
+              second < needle.size()) {
+
+            // Match
+            if(haystack[first] == needle[second]) {
+
                 first++;
-                else
-                second = lps[second-1];
+                second++;
+            }
+
+            // Not matched
+            else {
+
+                // Kuch bhi match nahi hua
+                if(second == 0) {
+
+                    first++;
+                }
+
+                // Kuch characters already match ho chuke hain
+                else {
+
+                    second = lps[second - 1];
+                }
             }
         }
 
-        //Answer exist
-        if(second == needle.size())
-        return first-second;
+
+        // Complete needle match ho gaya
+        if(second == needle.size()) {
+
+            return first - second;
+        }
+
+        // Needle nahi mila
         return -1;
     }
 };
