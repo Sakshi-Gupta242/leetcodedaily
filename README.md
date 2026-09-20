@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3248-snake-in-matrix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3248-snake-in-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
