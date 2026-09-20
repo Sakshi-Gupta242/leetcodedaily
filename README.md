@@ -494,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0686-repeated-string-match) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
