@@ -1,12 +1,12 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& price) {
-        int buy = price[0];
+    int maxProfit(vector<int>& prices) {
+        int buy = prices[0];
         int maxProfit = 0;
 
-        for(int i =1;i<price.size();i++){
+        for(int i =1;i<prices.size();i++){
             //aaj ke price ko sell price maan rahe h
-            int sell = price[i];
+            int sell = prices[i];
 
             //agar aaj sell karu to profit
             int profit = sell -buy;
