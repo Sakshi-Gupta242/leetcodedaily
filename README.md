@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0287-find-the-duplicate-number) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1838-frequency-of-the-most-frequent-element) |
