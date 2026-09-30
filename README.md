@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0415-add-strings) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0268-missing-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0424-longest-repeating-character-replacement) |
