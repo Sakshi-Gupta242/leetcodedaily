@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0125-valid-palindrome) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -528,5 +530,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
