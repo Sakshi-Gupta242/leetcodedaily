@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1861-rotating-the-box) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1108-defanging-an-ip-address) |
