@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1108-defanging-an-ip-address) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |
