@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1861-rotating-the-box) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Brainteaser
 |  |
