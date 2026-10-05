@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1108-defanging-an-ip-address) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1768-merge-strings-alternately) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1472-design-browser-history) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |
