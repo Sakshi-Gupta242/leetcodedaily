@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0344-reverse-string) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0509-fibonacci-number) |
 ## Pigeonhole Principle
 |  |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1472-design-browser-history) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
