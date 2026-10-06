@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0283-move-zeroes) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0229-majority-element-ii) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0328-odd-even-linked-list) |
