@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0415-add-strings) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0994-rotting-oranges) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
