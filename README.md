@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1472-design-browser-history) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0901-online-stock-span) |
 ## String Matching
 |  |
 | ------- |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -649,5 +652,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
