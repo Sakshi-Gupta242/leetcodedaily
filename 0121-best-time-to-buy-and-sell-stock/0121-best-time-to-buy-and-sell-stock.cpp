@@ -4,20 +4,13 @@ public:
         int buy = prices[0];
         int maxProfit = 0;
 
-        for(int i =1;i<prices.size();i++){
-            //aaj ke price ko sell price maan rahe h
+        for(int i = 0; i < prices.size();i++){
             int sell = prices[i];
 
-            //agar aaj sell karu to profit
-            int profit = sell -buy;
-
-            //maximum profit save karo
+            int profit = sell-buy;
             maxProfit = max(maxProfit,profit);
-
-            //agar aaj ka price aur sasta hai
-            // toh future ke liy buy price update karo
-            buy = min(buy,sell);        
-    }
-    return maxProfit;
+            buy = min(buy,sell);
+        }
+        return maxProfit;      
     }
 };
