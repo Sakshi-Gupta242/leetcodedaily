@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1861-rotating-the-box](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1861-rotating-the-box) |
 | [2029-stone-game-ix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1859-sorting-the-sentence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2498-frog-jump-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2498-frog-jump-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
