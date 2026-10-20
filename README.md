@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0200-number-of-islands) |
@@ -574,12 +575,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0503-next-greater-element-ii) |
