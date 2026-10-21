@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0287-find-the-duplicate-number) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
