@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1859-sorting-the-sentence) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0567-permutation-in-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -617,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Newton's Method
