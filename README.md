@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0567-permutation-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1386-cinema-seat-allocation) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0856-score-of-parentheses) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0901-online-stock-span) |
 ## String Matching
