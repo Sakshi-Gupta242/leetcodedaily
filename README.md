@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
 | [1472-design-browser-history](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1472-design-browser-history) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1254-number-of-closed-islands) |
 | [1861-rotating-the-box](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1861-rotating-the-box) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2965-find-missing-and-repeated-values) |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
