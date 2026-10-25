@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1140-stone-game-ii) |
+| [1200-minimum-absolute-difference](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1406-stone-game-iii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1200-minimum-absolute-difference) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1859-sorting-the-sentence) |
