@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0503-next-greater-element-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -819,4 +822,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0646-maximum-length-of-pair-chain) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
