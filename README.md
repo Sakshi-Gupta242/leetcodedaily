@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3794-reverse-string-prefix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3794-reverse-string-prefix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3794-reverse-string-prefix) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
