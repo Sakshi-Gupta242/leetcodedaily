@@ -1,22 +1,27 @@
 class Solution {
 public:
-static bool compare(vector<int>& p1,vector<int>& p2){
-    return p1[1] < p2[1];
-}
+
+    static bool compare(vector<int>& p1, vector<int>& p2) {
+        return p1[1] < p2[1];
+    }
+
     int findLongestChain(vector<vector<int>>& pairs) {
 
-        sort(pairs.begin(),pairs.end(),compare);
+        int n = pairs.size();
 
-        int count = 0;
-        int lastEnd = INT_MIN;
+        sort(pairs.begin(), pairs.end(), compare);
 
-        for(int i =0;i<pairs.size();i++){
-            if(pairs[i][0]>lastEnd){
-                count++;
-                lastEnd = pairs[i][1];
+        int ans = 1;
+        int currEnd = pairs[0][1];
 
+        for(int i = 1; i < n; i++) {
+
+            if(pairs[i][0] > currEnd) {
+                ans++;
+                currEnd = pairs[i][1];
             }
         }
-        return count;      
+
+        return ans;
     }
 };
