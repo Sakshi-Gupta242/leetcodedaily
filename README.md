@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3248-snake-in-matrix](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3248-snake-in-matrix) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3524-find-x-value-of-array-i) |
@@ -509,12 +510,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Segment Tree
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -746,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0901-online-stock-span) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -864,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2073-time-needed-to-buy-tickets) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## DP on Trees
 |  |
 | ------- |
@@ -893,4 +899,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
