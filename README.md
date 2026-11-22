@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Sakshi-Gupta242/leetcodedaily/tree/master/2409-count-days-spent-together) |
